@@ -1,6 +1,6 @@
 # Simple calculator of BMI project
 
-[Link](https://mrpenguin-dev.github.io/Simple-Calculator-of-BMI--JavaScript/)
+[Link](https://mr-front-end-dev.github.io/Simple-Calculator-of-BMI--JavaScript/)
 
 ##### Added:
 1. Section "Your data" (your height and weight)
