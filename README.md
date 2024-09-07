@@ -1,4 +1,4 @@
-# Simple calculator of BMI project
+# Calculator of BMI project
 
 [Link](https://web-fullstack-dev.github.io/Simple-Calculator-of-BMI--JavaScript/)
 
